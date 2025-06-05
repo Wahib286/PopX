@@ -39,7 +39,7 @@ export const LandingPage = () => {
         lg:top-[48%] lg:left-[50%] lg:-translate-x-1/2">
           <p
             className="text-center text-[16px] leading-[17px] font-normal text-white font-[Rubik]"
-            onClick={() => navigate("/register")}>
+            onClick={() => navigate("/signup")}>
             Create Account
           </p>
         </button>
